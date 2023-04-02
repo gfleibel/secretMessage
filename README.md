@@ -1,2 +1,2 @@
-# secretMessage
-Arrays project from Codecademy - Secret Message
+# Secret Message
+Arrays project from Codecademy, using different array methods.
